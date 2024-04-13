@@ -1,0 +1,90 @@
+.backy{
+    filter:brightness(100%);
+    background-color: rgba(255, 255, 255, 0.952);
+    margin-right:-10px;
+    margin-top:-10px;
+    margin-bottom:-10px;
+    margin-left:-10px;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.email-container{
+    text-align: center;
+    h3{
+        text-align: center;
+    }
+}
+body{
+    border-style:solid;
+    border-width: 100px;
+    border-color:darkslategray;
+    /* border-image: url("../img/asphalt.JPG") 30% 30% 30% 30% round; */
+    /* border-image: url("https://www.shutterstock.com/image-photo/seamlessly-stony-wall-background-texture-600nw-112280795.jpg") 30% 30% 30% 30% round; */
+    border-image-outset: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    font-family:"Trebuchet MS";
+    /* background-color:darkslategray; */
+    background-image: url("https://img.freepik.com/premium-photo/seamless-wood-texture-background_105762-83.jpg");
+    margin-right: 125px;
+    margin-left: 125px;
+    font-size: 120%;
+    font-weight:bold;
+    /* color: white; */
+}
+.line {
+    border-bottom: 5px solid black;
+    margin-top: 5px;
+    width: 100%;
+}
+.lef{
+    display:inline-block;
+}
+.righ{
+    float: right;
+    /* margin-right: 125px */
+}
+p{
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li{
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.nav{
+    margin-top: 5px;
+    margin-right: 5px;
+    position: relative;
+    float: right;
+    z-index: 1;
+    
+}
+

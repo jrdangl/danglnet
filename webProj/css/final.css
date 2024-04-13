@@ -1,0 +1,30 @@
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    font-size: large;
+    font-family: 'Comic Sans MS';
+    background-image: url("https://media1.tenor.com/m/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif");
+    background-size: 150px;
+    height: 100000px;
+    position: relative;
+}
+.atro{
+    color: blue;
+    background-color: red;
+}
+.cious{
+    color: red;
+    background-color: gray;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+a{
+    position: absolute; 
+	bottom: 0; 
+    z-index: 1;
+    left:50%;
+    transform: translateX(-50%);
+    color:white;
+    font-weight:bolder;
+}
