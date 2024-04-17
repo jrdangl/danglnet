@@ -28,3 +28,63 @@ a{
     color:white;
     font-weight:bolder;
 }
+.red{
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+.blue{
+    text-align:center;
+    background-color: blue;
+    color: orange;
+}
+.turquoise{
+    text-align:center;
+    background-color:  turquoise;
+    color: red;
+}
+.purple{
+    text-align:center;
+    background-color: purple;
+    color: green;
+}
+.green{
+    text-align:center;
+    background-color: green;
+    color:  yellow;
+}
+.pink{
+    text-align:center;
+    background-color: pink;
+    color: brown;
+}
+.orange{
+    text-align:center;
+    background-color: orange;
+    color: red;
+}
+.yellow{
+    text-align:center;
+    background-color: yellow;
+    color: pink;
+}
+.white{
+    text-align:center;
+    background-color: white;
+    color:gray;
+}
+.violet{
+    text-align:center;
+    background-color: violet;
+    color:purple;
+}
+.brown{
+    text-align:center;
+    background-color: brown;
+    color:blue;
+}
+.gray{
+    text-align: center;
+    background-color: gray;
+    color:white;
+}
